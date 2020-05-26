@@ -116,7 +116,7 @@ export default class AnalyticsDashboard1 extends Component {
                             </div>
                         </div>
                         <Row>
-                            <Col md="8">
+                            <Col md="6">
                                 <div className="card mb-3 widget-chart">
                                     <div className="widget-chart-content">
                                         <div className="icon-wrapper rounded-circle">
